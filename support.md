@@ -2,7 +2,7 @@
 
 ## Contact Information
 For support inquiries, please contact:
-- Email: olemortentengesdal@icloud.com
+  📧 Email: olemortentengesdal@icloud.com
 
 ## Features
 RegnskApp helps you manage your personal finances with:
