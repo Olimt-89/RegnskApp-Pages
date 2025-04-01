@@ -35,6 +35,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 ## Contact
 If you have any questions about this privacy policy, please contact:
-- Email: olemortentengesdal@icloud.com
+
+📧 Email: olemortentengesdal@icloud.com
 
 Last updated: April 2025
